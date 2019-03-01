@@ -49,7 +49,9 @@ This course will teach you all the fundamentals about modules, directives, compo
 - This course is for everyone interested in learning a state-of-the-art frontend JavaScript framework
 - Taking this course will enable you to be amongst the first to gain a very solid understanding of Angular
 
-# MyFirstApp
+# DETAILS
+
+## MyFirstApp
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
